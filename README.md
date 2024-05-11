@@ -400,6 +400,7 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ```
 
 ## OUTPUT:
+![image](https://github.com/HariniBaskar/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/93427253/3f7cf757-9cb9-4a7f-b821-8d15a88b28eb)
 
 
 ## RESULT:
